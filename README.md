@@ -2,6 +2,8 @@
 
 The web application allows a user to write blogs on any topic of his choice. A user can create an account in order to write the blog. He can also read blogs written by a particular user. Apart from that, in case a user forgets his password he can reset the password as well using the mail id. User can also upload profile picture for his account.
 
+Entire application has been created using Python and Django at the backend and HTML at the frontend
+
 ### How to run the web application:
 Just follow the below steps in order to run this web app offline on your computer.
 1) Clone the repository on the system and download the .zip file of the repositry and unzip the file
